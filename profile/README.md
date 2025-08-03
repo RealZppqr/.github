@@ -1,35 +1,38 @@
-<h1 align="center">Heya~ I'm <b>RealZppqr</b> 💅</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&width=435&lines=✨+JavaScript+Dev+with+Femboy+Energy+%F0%9F%A7%90;💖+Cloud+Builder+@+Pryo%2C+Inc.;🛠️+Crafting+bots+%2B+infra+with+style" alt="Typing SVG" />
-</p>
+# Zppqr
+
+JavaScript-powered. Nerd-coded. Femboy-core.
 
 ---
 
-### 💫 About Me
+## About Me
 
-> 🏳️‍⚧️ Soft-coded but hard-skilled — dev powered by JavaScript and coffee.
+I'm a full-stack developer who blends structure with personality. I specialize in scalable Discord bots, real-time systems, and self-hosted platforms. I believe minimalism, performance, and aesthetics can coexist — in code and in identity.
 
-- 🧠 Founder & Ceo @ **Pryo, Inc.** — A cloud brand for modern bots and scalable tools
-- 💻 I love building infrastructure that’s minimal, fast, and kawaii~
-- 🧩 Passionate about **ESM**, **Redis**, and **Discord bots** with real-world scaling
-- 💞 I’m fueled by pastel themes, clean code, and creative chaos
-
----
-
-### 💖 Current Projects
-
-- 🦋 **Auribot** — The next-gen multipurpose Discord bot, fully sharded & powered by Redis
-- ☁️ **Pryo Cloud Tools** — Hosting, scaling, and managing bot ecosystems with flair
-- 💫 Personal suite of CLI + API tools (built in Node.js, ofc)
+- Focused on JavaScript (ESM-first), Node.js, and Redis
+- Passionate about building things that are fast, private, and self-contained
+- Designing infrastructure that’s expressive and functional
 
 ---
 
-### 💻 Tech Stack
+## Projects
+
+- **Auribot** – Large-scale multipurpose Discord bot (Redis, SQLite, sharded)
+- **Pryo Cloud** – Infrastructure tools and orchestration under the Pryo cloud brand
+- **Slot-based Panels** – OAuth2 login, slot plans, auto plan detection by Discord roles
+
+---
+
+## Tech Stack
 
 ```js
-const femboyTech = {
-  langs: [ "JavaScript", "HTML", "CSS" ],
-  backend: [ "Node.js", "Redis", "PostgreSQL", "SQLite" ],
+const stack = {
+  language: [ "JavaScript", "Shell" ],
+  backend: [ "Node.js", "Redis", "SQLite", "PostgreSQL" ],
   frontend: [ "EJS", "TailwindCSS", "Vercel", "Cloudflare" ],
-  patterns: [ "ESM", "Sharding", "OAuth2", "Event-driven" ]
+  architecture: [ "Sharding", "ESM", "OAuth2", "REST" ]
 };
+```
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealZppqr&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealZppqr&show_icons=true&theme=transparent&hide_border=true)
