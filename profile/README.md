@@ -17,7 +17,7 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 ## Projects
 
 - **Auribot** – Large-scale multipurpose Discord bot (Redis, SQLite, sharded)
-- **Pryo Cloud** – Infrastructure tools and orchestration under the Pryo cloud brand
+- **Stablechan** – Your personal virtual girlfriend for free.
 - **Slot-based Panels** – OAuth2 login, slot plans, auto plan detection by Discord roles
 
 ---
