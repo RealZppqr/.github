@@ -26,9 +26,9 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 
 ```js
 const stack = {
-  language: [ "JavaScript", "Shell" ],
-  backend: [ "Node.js", "Redis", "SQLite", "PostgreSQL" ],
-  frontend: [ "EJS", "TailwindCSS", "Vercel", "Cloudflare" ],
+  language: [ "JavaScript", "Typesricpt", "Rust" ],
+  backend: [ "Node.js", "Redis", "SQLite", "Typesricpt" ],
+  frontend: [ "EJS", "TailwindCSS", "React", "Cloudflare" ],
   architecture: [ "Sharding", "ESM", "OAuth2", "REST" ]
 };
 ```
