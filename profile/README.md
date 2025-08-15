@@ -16,7 +16,7 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 
 ## Projects
 
-- **Auribot** – Large-scale multipurpose Discord bot (Redis, SQLite, sharded)
+- **Pepe** – Large-scale multipurpose Discord bot (Redis, SQLite, sharded)
 - **ShadenDash** – Solution for gameserver hosting
 - **Slot-based Panels** – OAuth2 login, slot plans, auto plan detection by Discord roles
 
