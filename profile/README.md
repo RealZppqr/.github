@@ -17,7 +17,7 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 ## Projects
 
 - **Pepe** – Large-scale multipurpose Discord bot (Redis, SQLite, sharded)
-- **ShadenDash** – Solution for gameserver hosting
+- **Polaris** – Text-to-speech and Speech-to-text agent
 - **Slot-based Panels** – OAuth2 login, slot plans, auto plan detection by Discord roles
 
 ---
@@ -27,8 +27,8 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 ```js
 const stack = {
   language: [ "JavaScript", "Typesricpt", "Rust", "Go" ],
-  backend: [ "Node.js", "Redis", "SQLite", "Typesricpt" ],
-  frontend: [ "EJS", "TailwindCSS", "React", "Cloudflare" ],
+  backend: [ "Express", "Node.js", "Redis", "SQLite", "Typesricpt" ],
+  frontend: [ "Next.js" "EJS", "TailwindCSS", "React", "Cloudflare" ],
   architecture: [ "Sharding", "ESM", "OAuth2", "REST" ]
 };
 ```
