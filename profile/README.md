@@ -16,7 +16,7 @@ I'm a full-stack developer who blends structure with personality. I specialize i
 
 ## Projects
 
-- **7PG** – Large-scale multipurpose Discord bot
+- **PG** – Large-scale multipurpose Discord bot
 - **Polaris** – Text-to-speech and Speech-to-text agent
 - **Slot-based Panels** – OAuth2 login, slot plans, auto plan detection by Discord roles
 
